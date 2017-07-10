@@ -1,19 +1,19 @@
 # -data-structure-algorithm-c-c-
 常用算法以及数据结构的c/c++版实现(Commonly used algorithms and data structures of c/c + + version)*
 ## 数据结构(data-structure)
-*单链表
-*双向链表
-*循环链表
-*栈与队列
-*集合
-*哈希表
-*树
-*堆与优先队列
-*图
+* 单链表
+* 双向链表
+* 循环链表
+* 栈与队列
+* 集合
+* 哈希表
+* 树
+* 堆与优先队列
+* 图
 ## 算法(algorithm)
-*排序与搜索
-*数值计算
-*数据压缩
-*数据加密
-*图算法
-*几何算法
+* 排序与搜索
+* 数值计算
+* 数据压缩
+* 数据加密
+* 图算法
+* 几何算法
