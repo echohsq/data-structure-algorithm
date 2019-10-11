@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/language-{c++}-{red}.svg)
 # data-structure&algorithm
-常用算法以及数据结构的c/c++版实现(Commonly used algorithms and data structures of c/c + + version)*
+常用算法以及数据结构的代码实现(Commonly used algorithms and data structures of c/java/python version)*
 ## 数据结构(data-structure)
 * 单链表
 * 双向链表
