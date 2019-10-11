@@ -1,6 +1,4 @@
-![](https://img.shields.io/badge/language-{c}-{red}.svg)
-![](https://img.shields.io/badge/language-{java}-{red}.svg)
-![](https://img.shields.io/badge/language-{python}-{red}.svg)
+![](https://img.shields.io/badge/language-{c++}-{red}.svg)
 # data-structure&algorithm
 常用算法以及数据结构的代码实现(Commonly used algorithms and data structures of c/java/python version)*
 ## 数据结构(data-structure)
